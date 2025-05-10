@@ -22,7 +22,7 @@
 ||anal-ytics.alastonsuomi.com^
 ||tag-manager.yle.fi^
 ||fundingchoicesmessages.google.com^
-||cmp.inmobi.com^
+||inmobi.com^
 ||cookieinformation.com^
 ||cdn.cookie-script.com^
 ||stats.addsearch.com^
@@ -60,3 +60,12 @@
 ||elmotv.com^ 
 ||revimages.motouutiset.fi^ 
 ||tehtava-ui.apps.yle.fi^ 
+||data.richie.app^
+||cdn.privacy-mgmt.com^
+||er.sanoma-sndp.fi^
+||at.kaalimato.com^
+||upsell-app.logbase.io^
+||judge.me^
+||widget.trustpilot.com^
+||hog.itapsa.com^
+||plausible.alytapsa.pro^
