@@ -39,7 +39,6 @@
 ||strongbox.nostemedia.fi^ 
 ||nostemedia.bbvms.com^
 ||expekt.com^
-||bittiraha.fi^
 ||improveads.fi^
 ||med.etoro.com^
 ||stripe.com^ 
@@ -52,8 +51,7 @@
 ||adform.net^
 ||ads.vidoomy.com^
 ||almacrcommoncontent.net^
-||ksearchnet.com^ 
-||auto1.fi^
+||ksearchnet.com^ cc
 ||c1.hinta.fi^
 ||virtualserver.fi^ 
 ||10kysymysta.fi^ 
@@ -69,3 +67,18 @@
 ||widget.trustpilot.com^
 ||hog.itapsa.com^
 ||plausible.alytapsa.pro^
+||inte.searchnode.io^
+||experience.ninetailed.co^
+||t.adii.se^
+||esales.apptus.cloud^
+||cdn.reactandshare.com^
+||eu1.snoobi.com.^
+||siteimproveanalytics.com^
+||networkadvertising.org^
+||bot.leadoo.com^
+||anl.leadoo.com^
+||tags.op-palvelut.fi^
+||api.targeting.almamedia.fi^
+||metrics.almamedia.fi^
+||try.abtasty.com^
+||^
