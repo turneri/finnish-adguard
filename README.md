@@ -2,6 +2,7 @@
 
 This is a custom blocklist focused on **Finnish ad, analytics, and tracking domains**. It's meant to be used with AdGuard Home, Pi-hole, or similar DNS-level blocking tools. 
 Right now, the list is intentionally quite strict, but in the future — if there's interest — I might create different levels of blocking (e.g. light/medium/strict).
+
 ---
 
 ## ⚠️ Early Stage – Feedback Welcome!
