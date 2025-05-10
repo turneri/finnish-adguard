@@ -81,4 +81,3 @@
 ||api.targeting.almamedia.fi^
 ||metrics.almamedia.fi^
 ||try.abtasty.com^
-||^
