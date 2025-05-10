@@ -1,4 +1,4 @@
-# AdGuard / Pi-hole Finland
+# AdGuard / Pi-hole Finnish Blocklist
 This is a custom blocklist focused on **Finnish ad, analytics, and tracking domains**. It's meant to be used with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html), [Pi-hole](https://pi-hole.net/), or similar DNS-level blocking tools.
 
 ---
