@@ -79,6 +79,7 @@
 ||api.targeting.almamedia.fi^
 ||metrics.almamedia.fi^
 ||try.abtasty.com^
+<<<<<<< HEAD
 ||nugg.ad^
 ||webanalytics.digiaiiris.com^
 ||obs.healthroundprince.com^
@@ -107,3 +108,5 @@
 ||ad.oikotie.fi^
 ||track.mtvuutiset.fi^
 ||data.kaleva.fi^
+=======
+>>>>>>> 14b44001398faca7541566babfbf25caf23fb514
