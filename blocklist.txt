@@ -1,15 +1,14 @@
 ! Finnish AdGuard / Pi-hole Finnish Blocklist
-! Updated: 2025-05-10
-! For use with AdGuard Home, Pi-hole, etc.
+! Updated: 2025-05-17 (fixed usability)
 
 ||ad.citycdn.fi^
 ||ad.ilcdn.fi^
 ||kampanjat.is.fi^
 ||events.il.fi^
-||ap-online.media.fi
+||ap-online.media.fi^
 ||media.vuokraovi.com^
 ||media.toimitilat.kauppalehti.fi^
-||recommendations.asunnot.oikotie.fi
+||recommendations.asunnot.oikotie.fi^
 ||feed.autotalli.com^
 ||feed.etuovi.com^
 ||vg.is.fi^
@@ -36,28 +35,27 @@
 ||madmen2.alastonsuomi.com^
 ||progressier.app^
 ||popup.campaign.playable.com^
-||strongbox.nostemedia.fi^ 
+||strongbox.nostemedia.fi^
 ||nostemedia.bbvms.com^
 ||expekt.com^
 ||improveads.fi^
 ||med.etoro.com^
-||stripe.com^ 
 ||location-api.f-secure.com^
-||celtra.com
+||celtra.com^
 ||cdn.allermedia.se^
-||cdn-eu.readspeaker.com^ 
-||sanoma.cdn-v3.conductrics.com^ 
+||cdn-eu.readspeaker.com^
+||sanoma.cdn-v3.conductrics.com^
 ||ap-cdn.sanomagames.com^
 ||adform.net^
 ||ads.vidoomy.com^
 ||almacrcommoncontent.net^
-||ksearchnet.com^ cc
+||ksearchnet.com^
 ||c1.hinta.fi^
-||virtualserver.fi^ 
-||10kysymysta.fi^ 
-||elmotv.com^ 
-||revimages.motouutiset.fi^ 
-||tehtava-ui.apps.yle.fi^ 
+||virtualserver.fi^
+||10kysymysta.fi^
+||elmotv.com^
+||revimages.motouutiset.fi^
+||tehtava-ui.apps.yle.fi^
 ||data.richie.app^
 ||cdn.privacy-mgmt.com^
 ||er.sanoma-sndp.fi^
@@ -72,7 +70,7 @@
 ||t.adii.se^
 ||esales.apptus.cloud^
 ||cdn.reactandshare.com^
-||eu1.snoobi.com.^
+||eu1.snoobi.com^
 ||siteimproveanalytics.com^
 ||networkadvertising.org^
 ||bot.leadoo.com^
@@ -81,4 +79,31 @@
 ||api.targeting.almamedia.fi^
 ||metrics.almamedia.fi^
 ||try.abtasty.com^
-||^
+||nugg.ad^
+||webanalytics.digiaiiris.com^
+||obs.healthroundprince.com^
+||graphql.datocms.com^
+||stat.traficom.fi^
+||www.webanalytics.europa.eu^
+||cdn-eu.dynamicyield.com^
+||cdn.segment.com^
+||wonderus.bbvms.com^
+||functions.adnami.io^
+||s1.adform.net^
+||mtv-cdn.relevant-digital.com^
+||cdn.adt357.net^
+||digitalfeedback.euro.confirmit.com^
+||statistics.serviceform.com^
+||cdn.sanoma.fi^
+||collector.kaleva.fi^
+||tags.tieto.com^
+||sb.crimppi.fi^
+||analytiikka.iltalehti.fi^
+||mainos.suomi24.fi^
+||media.kauppalehti.fi^
+||televisioviikko.fi^
+||visitors.yhteishyva.fi^
+||events.iltasanomat.fi^
+||ad.oikotie.fi^
+||track.mtvuutiset.fi^
+||data.kaleva.fi^
